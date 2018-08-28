@@ -1,0 +1,6 @@
+# Design Document
+## Gameplay
+Try to create a game similar to Flabby Bird
+## Art Assets
+* Use art from [Open Game Art](https://opengameart.org/)
+* Music needs to be used throught the [Creative Commons Lincese](https://creativecommons.org/)
