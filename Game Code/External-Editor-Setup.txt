@@ -1,0 +1,8 @@
+Example paths for Visual Studio Code on Mac and PC...
+
+/Applications/Visual Studio Code.app/Contents/MacOS/Electron
+C:/Microsoft VS Code/bin/code.cmd
+
+Set your "Exec Flags" as follows...
+
+- {project} --goto {file}:{line}:{col}
