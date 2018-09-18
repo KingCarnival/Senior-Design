@@ -12,3 +12,6 @@ This game targets a casual game user face. App store/Google Play users lookning 
 2. Player character (PC) Icon moves vertically
 3. Obsticals move form right to left
 4. Players must time the PC gravity and vertical ascent to navigate obsitcales
+
+### Feedback Mechanism
+[General feedback Form](https://goo.gl/forms/WSsEBfVFIgi6RtfU2)
