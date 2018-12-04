@@ -11,7 +11,7 @@ config_version=3
 [application]
 
 config/name="FlappyClone"
-run/main_scene="res://Scenes/basicStage.tscn"
+run/main_scene="res://scenes/background.tscn"
 config/icon="res://icon.png"
 
 [display]
